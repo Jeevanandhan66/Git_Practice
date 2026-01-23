@@ -1,5 +1,3 @@
-Demo-Repo
+# Practice Project
 
-Test_1
-
-Test_2
+This project is to learn Git and GitHub
